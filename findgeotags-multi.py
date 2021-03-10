@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 # find-geo-tags multiprocessing
 # Search and display GPS geotags from images in the current directory.
-# multiprocessing.
 
 from PIL import Image
 import glob, os
